@@ -8,7 +8,7 @@ Je m'intéresse depuis fort longtemps au monde des secours et de la santé. Enco
 
 ## Genèse de ce projet
 
-Cartographiant les centres de secours dans OpenStreetMap, j'ai remarqué que le schéma de données était pauvre. Seules des tags génériques étaient possibles et aucun sur la description de ces centres. Le contexte international du projet OSM ne facilitant pas les choses, j'ai développé au fur et à mesure un schéma de données applicable au contexte français afin d'enrichir les données.
+Cartographiant les centres de secours dans OpenStreetMap, j'ai remarqué que le schéma de données était pauvre. Seuls des tags génériques étaient possibles et aucun sur la description de ces centres. Le contexte international du projet OSM ne facilitant pas les choses, j'ai développé au fur et à mesure un schéma de données applicable au contexte français afin d'enrichir les données.
 
 J'ai également constaté que -jusqu'à présent- peu de Sdis ont publié des données en OpenData sur ce sujet.
 
